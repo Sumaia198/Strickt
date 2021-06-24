@@ -1,0 +1,2 @@
+# Strickt
+crash course assignment
